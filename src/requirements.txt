@@ -1,0 +1,7 @@
+sphinx == 2.1.1
+sphinx-autobuild
+blockdiag
+sphinxcontrib-blockdiag
+reportlab
+sphinxcontrib-textstyle
+pypdf2
